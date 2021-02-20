@@ -2,7 +2,7 @@
 Demo made in Unity3D, part of a Udemy course.
 
 ## Controllers are:
-- WASD and keyboard arrows for move
+- WASD for move
 - Click for shoot
 
 
